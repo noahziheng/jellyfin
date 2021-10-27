@@ -1,4 +1,4 @@
-name: cdairport-flightinfo-ci
+name: jellyfin-ci
 
 env:
   DOCKERHUB_TAG: "noahziheng/jellyfin"
